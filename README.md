@@ -1,11 +1,8 @@
-# odin-project-journey
-My hike through The Odin Projects subject matter from Foundations to Full-Stack JavaScript
-
 # 🚀 The Odin Project Journey
 
-This repository serves as a central index for my work through The Odin Project, where I’m building a strong foundation in full stack web development.
+This repository serves as a central index for my work through [The Odin Project](https://www.theodinproject.com/), where I’m building a strong foundation in full stack web development.
 
-I’m currently working through the Foundations Course, with plans to continue into the Full Stack JavaScript Path.
+I’m currently working through the **Foundations Course**, with plans to continue into the **Full Stack JavaScript Path**.
 
 ---
 
@@ -13,25 +10,25 @@ I’m currently working through the Foundations Course, with plans to continue i
 
 ### 🧱 Core Projects
 
-- Landing Page  
-  https://github.com/grumpyGrampsDev/landing-page
+- **Landing Page**  
+  [View Repository](https://github.com/grumpyGrampsDev/landing-page)
 
-- Rock Paper Scissors  
-  View Repository
+- **Rock Paper Scissors**  
+  [View Repository](#)
 
-- Etch-a-Sketch  
-  View Repository
+- **Etch-a-Sketch**  
+  [View Repository](#)
 
-- Calculator (in progress / upcoming)  
-  View Repository
+- **Calculator** *(in progress / upcoming)*  
+  [View Repository](#)
 
 ---
 
 ### 🧪 Exercises & Practice
 
-- GrampsSolutions  
+- **GrampsSolutions**  
   A collection of smaller exercises and challenges completed throughout the course.  
-  https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions
+  [View Repository](https://github.com/grumpyGrampsDev/odin-project-journey)
 
 ---
 
@@ -64,5 +61,3 @@ After completing Foundations, I will be moving into:
 - Become job-ready as a full stack developer  
 
 ---
-
-
