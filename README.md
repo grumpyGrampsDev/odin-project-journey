@@ -28,8 +28,7 @@ I’m currently working through the **Foundations Course**, with plans to contin
 
 - **GrampsSolutions**  
   A collection of smaller exercises and challenges completed throughout the course.  
-  [View Repository](https://github.com/grumpyGrampsDev/odin-project-journey)
-
+  [View Repository](https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions)
 ---
 
 ## 🛠️ Skills Developed
