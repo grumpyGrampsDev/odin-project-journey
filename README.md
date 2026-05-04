@@ -31,11 +31,11 @@ Started as a console-based program and later rebuilt with a browser interface.
 - Using event listeners to respond to user interaction  
 - Tracking and updating game state across rounds  
 
-Repository: #
+Repository: https://github.com/grumpyGrampsDev/rock-paper-scissors
 
 ---
 
-**Etch-a-Sketch**  
+**Etch-a-Sketch** (Not Started)    
 Interactive grid-based drawing application.
 
 - Generating and resizing grids dynamically  
@@ -47,7 +47,7 @@ Repository: #
 
 ---
 
-**Calculator** (In Progress)  
+**Calculator** (Not Started)  
 Browser-based calculator built with vanilla JavaScript.
 
 - Managing state across chained operations  
@@ -70,7 +70,8 @@ Focused on:
 - Breaking problems into smaller steps  
 - Writing predictable, testable functions  
 
-Repository: https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions
+Repository: https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions  
+Repository: https://github.com/grumpyGrampsDev/javascript-exercises/tree/grampsSolutions
 
 ---
 
