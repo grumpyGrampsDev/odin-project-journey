@@ -1,62 +1,101 @@
-# 🚀 The Odin Project Journey
+# Odin Project Journey
 
-This repository serves as a central index for my work through [The Odin Project](https://www.theodinproject.com/), where I’m building a strong foundation in full stack web development.
+This repository tracks my progress through The Odin Project.
 
-I’m currently working through the **Foundations Course**, with plans to continue into the **Full Stack JavaScript Path**.
+The goal here is simple: document what I’ve built, what I’ve practiced, and how my understanding is improving over time. This isn’t a showcase repo—it’s a record of the work.
 
----
-
-## 📚 Foundations Course
-
-### 🧱 Core Projects
-
-- **Landing Page**  
-  [View Repository](https://github.com/grumpyGrampsDev/landing-page)
-
-- **Rock Paper Scissors**  
-  [View Repository](#)
-
-- **Etch-a-Sketch**  
-  [View Repository](#)
-
-- **Calculator** *(in progress / upcoming)*  
-  [View Repository](#)
+Currently working through the Foundations course, with plans to continue into the Full Stack JavaScript path.
 
 ---
 
-### 🧪 Exercises & Practice
+## Foundations
 
-- **GrampsSolutions**  
-  A collection of smaller exercises and challenges completed throughout the course.  
-  [View Repository](https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions)
----
+### Core Projects
 
-## 🛠️ Skills Developed
+**Landing Page**  
+Basic static site focused on layout and structure.
 
-- HTML5 & semantic structure  
-- CSS (Flexbox, layout, responsiveness)  
-- JavaScript fundamentals  
-- DOM manipulation  
-- Git & GitHub workflow  
+- Working with semantic HTML elements  
+- Building layouts with Flexbox  
+- Managing spacing, alignment, and document flow  
+
+Repository: https://github.com/grumpyGrampsDev/landing-page
 
 ---
 
-## 🔜 Next Steps
+**Rock Paper Scissors**  
+Started as a console-based program and later rebuilt with a browser interface.
 
-After completing Foundations, I will be moving into:
+- Implementing game logic with functions and control flow  
+- Moving from prompt/console input to DOM event handling  
+- Using event listeners to respond to user interaction  
+- Tracking and updating game state across rounds  
 
-- Full Stack JavaScript Path
-- Node.js & backend development
-- Databases (SQL & NoSQL)
-- Building full-stack applications
+Repository: #
+
+---
+
+**Etch-a-Sketch**  
+Interactive grid-based drawing application.
+
+- Generating and resizing grids dynamically  
+- Handling user interaction through mouse events  
+- Updating styles programmatically via the DOM  
+- Managing performance when working with larger grids  
+
+Repository: #
 
 ---
 
-## 📌 Goals
+**Calculator** (In Progress)  
+Browser-based calculator built with vanilla JavaScript.
 
-- Build clean, maintainable, and well-structured applications  
-- Strengthen problem-solving and debugging skills  
-- Develop real-world, portfolio-ready projects  
-- Become job-ready as a full stack developer  
+- Managing state across chained operations  
+- Handling floating point precision issues  
+- Supporting both button input and keyboard events  
+- Updating the interface through DOM manipulation  
+
+Repository: #
 
 ---
+
+## Exercises and Practice
+
+**GrampsSolutions**  
+Collection of smaller exercises completed alongside the course material.
+
+Focused on:
+- Array and string manipulation  
+- Looping and control flow  
+- Breaking problems into smaller steps  
+- Writing predictable, testable functions  
+
+Repository: https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions
+
+---
+
+## Skills in Progress
+
+- HTML (semantic structure and accessibility basics)  
+- CSS (Flexbox, layout, responsive behavior)  
+- JavaScript (core language fundamentals)  
+- DOM APIs (querying, events, updating content)  
+- Git and GitHub workflow  
+
+---
+
+## Next Steps
+
+- Finish Foundations  
+- Begin Full Stack JavaScript path  
+- Learn Node.js and backend fundamentals  
+- Work with databases  
+- Build full-stack applications  
+
+---
+
+## Goals
+
+- Write code that is clear and maintainable  
+- Understand how the browser and JavaScript actually behave  
+- Build projects that reflect real problem-solving, not just completed tutorials  
